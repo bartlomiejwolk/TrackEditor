@@ -11,11 +11,12 @@ Features
 
 - Create drivable tracks in UE4 editor
 - You can specify separate meshes for the track base and left/right guard rails
+- Multiple collision types
 
 Resources
 ---
 * [Blog Post](???)    
-* [Video](???)
+* [Video](https://youtu.be/7IINabzPLeo)
 
 Quick Start
 ------------------

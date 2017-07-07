@@ -15,16 +15,15 @@ Features
 
 Resources
 ---
-* [Blog Post](???)    
+* [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1385)    
 * [Video](https://youtu.be/7IINabzPLeo)
 
 Quick Start
 ------------------
 
-- Clone repository (or extract [zip package](???)) to any location in your project's `Source` folder
+- Clone repository (or extract [zip package](https://github.com/bartlomiejwolk/TrackEditor/archive/master.zip)) to any location in your project's `Source` folder
 - Add _TrackEditor_ module to `.uproject` file
-- Add _TrackEditor_ module to your game project  `.Target.cs` file
-- Add _TrackEditor_ module to your game module `.build.cs` file
+- Add _TrackEditor_ module to your game project  `.Target.cs` files
 - Create blueprint from the _TrackEditor_ actor class
 - Put blueprint actor on the scene
 - Specify actor's mobility setting to _Static_
